@@ -52,6 +52,6 @@ group :development do
 end
 
 group :production do
-  gem "mysq12"
+  gem "mysql2"
 end
 
